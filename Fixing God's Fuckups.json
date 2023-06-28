@@ -108,6 +108,58 @@
           "https://drive.google.com/uc?export=view&id=1rrhfAteeDXbF-3FJ3POrOP85pciHiQdX"
         ]
       }
+    },
+    "7": {
+      "title": "Equipment",
+      "volume": "",
+      "last_updated": "1687935490",
+      "groups": {
+        "FGF": [
+          "https://drive.google.com/uc?export=view&id=1BZQITeUcVoTTYwvl3AidAL2qTwjRzSbp",
+          "https://drive.google.com/uc?export=view&id=1epToPJVb_4WlG4vSW_oOvCd-4cVi1C6K",
+          "https://drive.google.com/uc?export=view&id=13HLXhDTR1iQkRGhRTi-acm03qp3YblYB",
+          "https://drive.google.com/uc?export=view&id=1mg61eE7JegvbDXGHaA0OyhgnrLVbXg9c",
+          "https://drive.google.com/uc?export=view&id=12Bv_qVPbvbZJNFKPgRqTFMHx-siZYjt5",
+          "https://drive.google.com/uc?export=view&id=1rhNLJ5fnmiNrb444c_Yy1EuHpr7ghpF-",
+          "https://drive.google.com/uc?export=view&id=1m2lWrMuaYfowJKVoFoVmcHhBhbuzW7eW"
+        ]
+      }
+    },
+    "8": {
+      "title": "Companions",
+      "volume": "",
+      "last_updated": "1687935620",
+      "groups": {
+        "FGF": [
+          "https://drive.google.com/uc?export=view&id=1ExvxKXCPmvend-c9QavPLv46U4XQmmH4",
+          "https://drive.google.com/uc?export=view&id=1h1Vqm0pwP85O4LsiNGS1RKxWM_ZFRn70",
+          "https://drive.google.com/uc?export=view&id=1N4jk45B7zb0Exi22TEx4ZZ7QIngy_63y",
+          "https://drive.google.com/uc?export=view&id=1LvTc8I1knuNS-VTUo9LSb4KKM5ECASK1",
+          "https://drive.google.com/uc?export=view&id=1N57zd3kWsxwsHiqS9MkQqTJs9VhWFj24",
+          "https://drive.google.com/uc?export=view&id=1L0Wg1Cey75i7bYmkqBvcJ_-7FYXkpKWq",
+          "https://drive.google.com/uc?export=view&id=1GPMZL0P0_ZpXwxukCK7Os9YfB5_wTPaB",
+          "https://drive.google.com/uc?export=view&id=10hlok07eC_-7GCPjnQ7RR8tuWxJkzlnR",
+          "https://drive.google.com/uc?export=view&id=1sDe5r55tKYMz_SlxbxisxoFYiRz_rx8Y",
+          "https://drive.google.com/uc?export=view&id=1FRxZxZgrY9Gf_ckSfhofdYbFnUmHjGAi",
+          "https://drive.google.com/uc?export=view&id=1mnPYOOIlSK5_AFZFFvkpsAFans0Ns0kf"
+        ]
+      }
+    },
+    "9": {
+      "title": "Gods, Boons, & Credits",
+      "volume": "",
+      "last_updated": "1687935850",
+      "groups": {
+        "FGF": [
+          "https://drive.google.com/uc?export=view&id=1wsl-UoyKADXUCVCa8a5X8h2bsUX6E8aG",
+          "https://drive.google.com/uc?export=view&id=1dW0Mu1qJr2B_tL9KwJoUYWkqNe_6U7i4",
+          "https://drive.google.com/uc?export=view&id=1HT12tJa1oY4uhZ8-3UPJBnjieYrj-4mZ",
+          "https://drive.google.com/uc?export=view&id=12_4KNl-eBmcmuxCFujrdnpZnOudt0OEs",
+          "https://drive.google.com/uc?export=view&id=1h2h8yAffOHwXw53bgg_LYY63QnPmP5bj",
+          "https://drive.google.com/uc?export=view&id=1ESfbe4sNZBGCMZDR_yUH9StyfOCrNp-A",
+          "https://drive.google.com/uc?export=view&id=1Hqde7SY4tgWIU-a71mNAuwyq6C743i1P"
+        ]
+      }
     }
   }
 }
