@@ -1,0 +1,25 @@
+{
+  "title": "Fixing God's Fuckups",
+  "description": "A very long and extensive CYOA that has more content than the D&D Player's Handbook.",
+  "artist": "various (see credits)",
+  "author": "dragonjek",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Introduction & Races",
+      "volume": "",
+      "last_updated": "1687933609",
+      "groups": {
+        "FGF": [
+          "https://drive.google.com/uc?export=view&id=1kBh5ah7ENTqLsy9pljwbNyDNRu3l-AUA",
+          "https://drive.google.com/uc?export=view&id=1mPep6XzV2OkK9GsIMlMtCM8eibdYjgMv",
+          "https://drive.google.com/uc?export=view&id=1g6x8QyvJqonP6JrYBtbA4aTT4KVAKfKa",
+          "https://drive.google.com/uc?export=view&id=1qVvAhuGfHRT0JxIPKErTS19YNtJI90rq",
+          "https://drive.google.com/uc?export=view&id=1zZ-FOKqM8NOyi3qN6PPcy5ah0twwced5",
+          "https://drive.google.com/uc?export=view&id=1XFbpGV0RP14gL04CCgVNrWj4C2nMJr8C",
+          "https://drive.google.com/uc?export=view&id=1m4TQBBZp3Xe8ADgMIJNrPXkr2Vj2ILQi"
+        ]
+      }
+    }
+  }
+}
