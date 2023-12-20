@@ -33,7 +33,7 @@
     },
     "2": {
       "title": "Colors of Magic",
-      "volume": "2",
+      "volume": "1",
       "last_updated": "1703089249",
       "groups": {
         "Outrageous Bears": [
@@ -44,7 +44,7 @@
     },
     "3": {
       "title": "Secundus DLC",
-      "volume": "3",
+      "volume": "1",
       "last_updated": "1703089879",
       "groups": {
         "rUsADinE": [
@@ -53,8 +53,8 @@
       }
     },
     "4": {
-      "title": "Familiar Granny",
-      "volume": "3",
+      "title": "Familiar Granny DLC",
+      "volume": "1",
       "last_updated": "1703090441",
       "groups": {
         "ChillRecluse": [
@@ -64,6 +64,22 @@
           "https://drive.google.com/uc?export=view&id=10yXg3Q-YNa7gT-AdJlYe8nUVgpkeqmJM",
           "https://drive.google.com/uc?export=view&id=1LAirAyO8rd0-A4jLM_23VAjjpjIKFPoX",
           "https://drive.google.com/uc?export=view&id=1o79cgFagUC2W_rvigesiDFXlOscAqu1G"
+        ]
+      }
+    },
+    "5": {
+      "title": "Element of Darkness DLC",
+      "volume": "1",
+      "last_updated": "1703091198",
+      "groups": {
+        "Madayasmar": [
+          "https://drive.google.com/uc?export=view&id=145VTj_JCXlybXsbRb7-gb7hRKFpk1v5z",
+          "https://drive.google.com/uc?export=view&id=1FNvkmSiqG6YEhXXCcy9wJZ1kPPliGd2S",
+          "https://drive.google.com/uc?export=view&id=1ql4cvTrUvdsHetUIT3tZHa3v9itgRLL9",
+          "https://drive.google.com/uc?export=view&id=1ugmLUvEVdlvWZ_7tlbzzOZey18jfOF2v",
+          "https://drive.google.com/uc?export=view&id=1d667NfNdw-Fgrzr8nVFQiZivfWn2-DAp",
+          "https://drive.google.com/uc?export=view&id=1WFttlJ_BOaTOpH7z_wZbJF4JObyBq4cw",
+          "https://drive.google.com/uc?export=view&id=1TTZqUyqzv0z7NtjlBvER-XeO0SM1JaX0"
         ]
       }
     }
