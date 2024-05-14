@@ -4,5 +4,16 @@
   "artist": "various",
   "author": "dragonjek",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Intro & Races",
+      "volume": "1",
+      "last_updated": "1715691822",
+      "groups": {
+        "Introduction & Races": [
+          "https://imgchest.com/p/6eyr2j2j67p"
+        ]
+      }
+    }
+  }
 }
