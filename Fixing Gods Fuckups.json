@@ -6,7 +6,7 @@
   "cover": "",
   "chapters": {
     "1": {
-      "title": "Intro & Races",
+      "title": "Introduction & Races",
       "volume": "1",
       "last_updated": "1715691822",
       "groups": {
@@ -18,6 +18,22 @@
           "https://cdn.imgchest.com/files/g4z9c9qren7.png",
           "https://cdn.imgchest.com/files/b49zcvnxk9y.png",
           "https://cdn.imgchest.com/files/my2pc5ql327.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "Race & Body Mods, Immortality",
+      "volume": "1",
+      "last_updated": "1715692455",
+      "groups": {
+        "Fixing God's Fuckups": [
+          "https://cdn.imgchest.com/files/my8xcqammz4.png",
+          "https://cdn.imgchest.com/files/345xc8a33x7.png",
+          "https://cdn.imgchest.com/files/84apcv9xxm4.png",
+          "https://cdn.imgchest.com/files/6yxkcqpa2p7.png",
+          "https://cdn.imgchest.com/files/b49zcvnxz2y.png",
+          "https://cdn.imgchest.com/files/l4neclza5g4.png",
+          "https://cdn.imgchest.com/files/p7bwc26wb97.png"
         ]
       }
     }
